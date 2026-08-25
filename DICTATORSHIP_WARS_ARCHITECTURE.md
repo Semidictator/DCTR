@@ -1,4 +1,4 @@
-# DCTR: Dictatorship Wars – System Architecture & Technical Specification
+# DCTR: System Architecture & Technical Specification
 
 **Version:** 1.0.0  
 **Status:** In Development  
