@@ -1,4 +1,4 @@
-GITHUB_SETUP_GUIDE.md
+ARCHITECTURE.md
 
 Version: 1.0.0
 Status: In Development
