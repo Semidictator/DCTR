@@ -1,4 +1,4 @@
-# DCTR — System Architecture & Technical Specification
+GITHUB_SETUP_GUIDE.md
 
 Version: 1.0.0
 Status: In Development
